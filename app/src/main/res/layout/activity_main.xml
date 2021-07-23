@@ -17,7 +17,7 @@
             app:layout_constraintTop_toTopOf="parent">
 
             <androidx.appcompat.widget.Toolbar
-                android:id="@+id/toolbar_movie"
+                android:id="@+id/toolbar_main"
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
                 android:background="?colorPrimary">

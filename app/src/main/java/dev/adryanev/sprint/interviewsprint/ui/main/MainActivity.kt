@@ -24,7 +24,7 @@ class MainActivity : BaseActivity<ActivityMainBinding,BaseViewModel>() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val toolbar = viewBinding.toolbarMovie
+        val toolbar = viewBinding.toolbarMain
 
         navController = findNavController(R.id.nav_host_fragment)
         val appBarConfiguration = AppBarConfiguration(
