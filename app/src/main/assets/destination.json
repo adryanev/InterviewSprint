@@ -1,0 +1,99 @@
+{
+  "status":true,
+  "data":{
+    "content":[
+      {
+        "areaId":"Z1Y4bnJHTURySEM2aHMvMktRMWVrUT09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Semarang",
+        "areaCode":"SRG",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "latitude":"-6.9904038",
+        "longitude":"110.4229455",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"NmpLSWRFZjFvb0NNMTZmQk9oYUFhQT09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Yogyakarta",
+        "areaCode":"JOG",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "latitude":"-7.8011945",
+        "longitude":"110.364917",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"M0dKS2h5eDJBM1JjbjFDMXl6clJHZz09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Malang",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "areaCode":"MLG",
+        "latitude":" -7.977121",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"aW9aS3RRbmJiTUxOVXVBdklEc0xKZz09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Surabaya",
+        "areaCode":"SUB",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "latitude":" -7.245972",
+        "longitude":"112.737827",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"RnNiSERDRENCTG53czBnaGJaZERuQT09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Lombok",
+        "areaCode":"LOP",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "latitude":"-8.5835637",
+        "longitude":"116.3580819",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"aWpPMWpOZmt6SndkeFhOU2xsTWg2Zz09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Bali",
+        "areaCode":"DPS",
+        "latitude":"-8.6525",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "longitude":"115.219",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"WUVuczhVVmZ6RHAyUFpvR2lCbzNjdz09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Bandung",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "areaCode":"BDG",
+        "latitude":"-6.934469",
+        "longitude":"107.604954",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      },
+      {
+        "areaId":"WGtqZ2NoV2l5djcybWc3TU9ydk9LZz09",
+        "countryId":"WU83TVU3ZzAvMnFzeTM5RXAxQ0hXdz09",
+        "areaName":"Jakarta",
+        "areaCode":"JKT",
+        "areaPhoto": "https://prodtest.gaidz.id/images/area/area-1572711673.jpeg",
+        "latitude":"-6.1753942",
+        "longitude":"106.827183",
+        "countryName":"Indonesia",
+        "countryCode":"ID"
+      }
+    ],
+    "total":8,
+    "page":0,
+    "totalPaging":1
+  },
+  "message":"",
+  "code":200
+}

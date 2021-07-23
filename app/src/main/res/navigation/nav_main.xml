@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/destinationFragment">
+
+    <fragment
+        android:id="@+id/hotelFragment"
+        android:name="dev.adryanev.sprint.interviewsprint.ui.hotel.HotelFragment"
+        android:label="@string/Staycation"
+        tools:layout="@layout/hotel_fragment" />
+    <fragment
+        android:id="@+id/destinationFragment"
+        android:name="dev.adryanev.sprint.interviewsprint.ui.destination.DestinationFragment"
+        android:label="@string/explore_your_destination"
+        tools:layout="@layout/destination_fragment">
+        <action
+            android:id="@+id/action_destinationFragment_to_hotelFragment"
+            app:destination="@id/hotelFragment" />
+    </fragment>
+</navigation>

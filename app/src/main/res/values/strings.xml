@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InterviewSprint</string>
+    <string name="Staycation">Staycation</string>
+    <string name="explore_your_destination">Explore your destination</string>
+    <string name="retry">Retry</string>
+    <string name="star_hotel">Star Hotel</string>
+    <string name="rp_270k">Rp 270k</string>
+    <string name="per_pack">/per pack</string>
+</resources>
