@@ -10,7 +10,7 @@
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="wrap_content" android:layout_margin="32dp"
         android:id="@+id/item_destination_layout">
 
         <androidx.cardview.widget.CardView
@@ -20,7 +20,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:cardCornerRadius="12dp">
+            app:cardCornerRadius="12dp"
+            app:cardBackgroundColor="@color/white">
 
             <RelativeLayout
                 android:id="@+id/relativelayout"
@@ -31,8 +32,8 @@
                     android:id="@+id/destination_image"
                     imageUrl="@{item.areaPhoto}"
                     centerCrop="true"
-                    android:layout_width="120dp"
-                    android:layout_height="120dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
                     tools:src="@tools:sample/backgrounds/scenic" />
 
                 <TextView
