@@ -21,7 +21,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:cardCornerRadius="12dp"
-            app:cardBackgroundColor="@color/white">
+            app:cardBackgroundColor="?colorOnPrimary">
 
             <RelativeLayout
                 android:id="@+id/relativelayout"
@@ -34,7 +34,7 @@
                     centerCrop="true"
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    tools:src="@tools:sample/backgrounds/scenic" />
+                    tools:src="@tools:sample/backgrounds/scenic"  android:scaleType="centerCrop"/>
 
                 <TextView
                     android:id="@+id/hotel_name"

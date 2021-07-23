@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/item_hotel_layout"
-        android:paddingBottom="16dp">
+        android:layout_marginTop="16dp">
 
         <androidx.cardview.widget.CardView
             android:id="@+id/hotel_card"
@@ -41,7 +41,8 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    tools:src="@tools:sample/backgrounds/scenic" />
+                    tools:src="@tools:sample/backgrounds/scenic"
+                    android:scaleType="centerCrop"/>
 
                 <TextView
                     android:id="@+id/hotel_name"
